@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnakeEyezx
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django, Flask
 - 💞️ I’m looking to collaborate on ...
