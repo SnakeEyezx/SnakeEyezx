@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Python Web-Development
-- 🌱 I’m currently learning Django, Flask, FASTAPI
+- 🌱 I’m currently dev my access control sub system on FASTAPI with front vai websokets!
 
