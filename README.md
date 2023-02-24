@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Alex
-- 🌱 I’m currently dev my access control sub system on FASTAPI with front via websokets!
-
-
+- 🪓 I’m currently working on asible automatition playbooks & some python cli and monitoring tools 
