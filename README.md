@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Alex
-- 🪓 I’m currently working on asible automatition playbooks & some python cli and monitoring tools 
+- I’m currently working with kubernetes
+- I also do some asible automatition & some python scripts & monitoring tools 
